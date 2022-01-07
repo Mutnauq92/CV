@@ -1,0 +1,28 @@
+.body {
+    background: center url("../pics/rivermist.jpg");
+}
+
+.headP, h1, h2, th, tbody {
+    color: white;
+}
+
+hr {
+    background: orange;
+    border: none;
+    height: 2px;
+}
+
+.links a {
+    text-decoration: none;
+    color: orange;
+    padding: 10px;
+}
+
+.links a:hover {
+    background: #3D5D58;
+    color: white;
+}
+
+.contact {
+    color: black;
+}
