@@ -1,0 +1,39 @@
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+    background: grey;
+}
+
+.navigation {
+    float: left;
+    position: relative;
+}
+
+li {
+    float: left;
+    padding-left: 100px;
+    padding-right: 100;
+    list-style-type: none;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation-g a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation a:hover {
+    background: green;
+    color: white;
+}
+
+.body {
+    background: silver;
+}
